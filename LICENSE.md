@@ -1,0 +1,1 @@
+[FileAccess](https://github.com/SomeDudeNamedAnthony/FileAccess) by [Anthony I. Jackson Jr.](http://anthonyjackson.me) is marked with [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)

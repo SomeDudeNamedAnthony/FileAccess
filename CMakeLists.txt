@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.00...3.50)
 project(FileAccess
         VERSION 1.0.0
-        DESCRIPTION ""
+        DESCRIPTION "A simple wrapper around file I/O in C."
         HOMEPAGE_URL ""
         LANGUAGES C
 )
